@@ -13,10 +13,10 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 
 ## Names
 - Carson Brown & Patrick McClain
-- 
+  
 ## Summary
 - In this lab we implemented edge sensitive flip flops. We first built a D-flip flop and then used that along with some combinational logic to create a JK-flip flop. We used the JK-flip flop to build a T-flip flop and demonstrated their functions on our basys3 board by clocking them all with btnC and the LEDs displaying q and ~q. At the end of the lab the D-flip flop stored sw[0] on each press, the JK-flip flop held, set, reset or toggled based on sw[1] and sw[2] positions and T-flip flop toggled on each press when sw[3] was turned on.
-- 
+  
 ## Lab Questions
 
 ### What is difference between edge and level sensitive circuits?
